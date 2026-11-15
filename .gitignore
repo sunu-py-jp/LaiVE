@@ -1,0 +1,7 @@
+# Local tooling
+.claude/
+.DS_Store
+
+# Secrets
+.env
+.env.*
